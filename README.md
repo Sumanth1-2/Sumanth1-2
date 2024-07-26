@@ -1,34 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Sumanth1-2/Sumanth1-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm CB Sumanth</h1>
-<h3 align="center">A passionate Data Science and Analyst from India</h3>
+<h3 align="center">Data Science Intern at CloudyML | Aspiring Data Scientist | Passionate about AI and Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanth1-2&label=Profile%20views&color=0e75b6&style=flat" alt="sumanth1-2" /> </p>
 
-- 🌱 I’m currently learning **Machine and Deep Learning Model From Cloudy ML**
+- 🌱 I’m currently learning **Data Science and Analytics From Cloudy ML**
 
 - 📫 How to reach me **sumanthcb18@gmail.com**
-
-- ⚡ Fun fact **I**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/cb18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cb18/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/cb sumanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cb sumanth" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/chelurusumanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/chelurusumanth" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,4 +24,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanth1-2&show_icons=true&locale=en" alt="sumanth1-2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth1-2&" alt="sumanth1-2" /></p>
+
 
